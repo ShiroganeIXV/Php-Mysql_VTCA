@@ -7,6 +7,6 @@
 </head>
 <body>
     <!-- change the file name to the excerise you want to run -->
-    <?php include './lab04/exercise04.php';?>
+    <?php include './lab05/exercise02.php';?>
 </body>
 </html>
